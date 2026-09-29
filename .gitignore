@@ -1,0 +1,7 @@
+node_modules/
+dist/
+public/vendor/
+.env
+.env.*
+!.env.example
+*.log
